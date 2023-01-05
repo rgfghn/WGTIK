@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1669529398 source:d:\kuliah\s3\std\tp\modul 8\tp10\stack.cpp
+	"stack.h"
+
+1669529400 d:\kuliah\s3\std\tp\modul 8\tp10\stack.h
+	<iostream>
+
+1669529868 source:d:\kuliah\s3\std\tp\modul 8\tp10\main.cpp
+	<iostream>
+	"stack.h"
+
+1669529868 source:d:\kuliah\s3\std\tp\modul 10\tp10\main.cpp
+	<iostream>
+	"stack.h"
+
+1669530230 d:\kuliah\s3\std\tp\modul 10\tp10\stack.h
+	<iostream>
+
+1669530232 source:d:\kuliah\s3\std\tp\modul 10\tp10\stack.cpp
+	"stack.h"
+
